@@ -13,14 +13,6 @@ func TestSUUID(t *testing.T) {
 			label: "case:1",
 			want:  22,
 		},
-		{
-			label: "case:2",
-			want:  22,
-		},
-		{
-			label: "case:3",
-			want:  22,
-		},
 	}
 	for _, test := range tests {
 		t.Run(test.label, func(t *testing.T) {

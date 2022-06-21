@@ -13,14 +13,6 @@ func TestULID(t *testing.T) {
 			label: "NormalCase:1",
 			want:  26,
 		},
-		{
-			label: "NormalCase:2",
-			want:  26,
-		},
-		{
-			label: "NormalCase:3",
-			want:  26,
-		},
 	}
 	for _, test := range tests {
 		t.Run(test.label, func(t *testing.T) {
