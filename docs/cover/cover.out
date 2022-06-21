@@ -1,6 +1,4 @@
 mode: set
-github.com/tys-muta/go-enc/sha1.go:8.30,11.2 2 0
-github.com/tys-muta/go-enc/sha256.go:8.32,11.2 2 1
 github.com/tys-muta/go-enc/sjis.go:11.43,12.119 1 0
 github.com/tys-muta/go-enc/sjis.go:12.119,14.3 1 0
 github.com/tys-muta/go-enc/sjis.go:14.8,16.3 1 0
@@ -27,3 +25,5 @@ github.com/tys-muta/go-enc/eucjp.go:22.8,24.3 1 0
 github.com/tys-muta/go-enc/random_number.go:12.39,13.17 1 1
 github.com/tys-muta/go-enc/random_number.go:16.2,19.59 4 1
 github.com/tys-muta/go-enc/random_number.go:13.17,14.35 1 1
+github.com/tys-muta/go-enc/sha1.go:8.30,11.2 2 0
+github.com/tys-muta/go-enc/sha256.go:8.32,11.2 2 1
