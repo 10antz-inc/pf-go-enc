@@ -1,4 +1,4 @@
-module github.com/tys-muta/go-enc
+module github.com/10antz-inc/pf-go-enc
 
 go 1.18
 
